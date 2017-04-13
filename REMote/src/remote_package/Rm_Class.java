@@ -9,6 +9,7 @@ public class Rm_Class {
 		System.out.println("Ravi-2");
 		System.out.println("Ravi-3");
 		System.out.println("From initiator");
+		System.out.println("Deepak-2");
 	}
 
 }
